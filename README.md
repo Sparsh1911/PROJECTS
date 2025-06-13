@@ -1,9 +1,9 @@
 # PROJECTS INCLUDED
-> Face Recognition System – Real-time face detection and recognition using OpenCV and face_recognition
-> More Coming Soon 
+1. Face Recognition System – Real-time face detection and recognition using OpenCV and face_recognition
+2. More Coming Soon 
 # 🛠 TECHNOLOGIES USED
-. Python 3
-. OpenCV
-. NumPy
-. face_recognition
-Other libraries as needed per project.
+1. Python 
+2. OpenCV
+3. NumPy
+4. face_recognition
+5. Other libraries as needed per project
